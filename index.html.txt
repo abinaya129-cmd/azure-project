@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Minor Project — Web App</title>
+  </head>
+  <body>
+    <h1>Minor Project — Web App</h1>
+    <p>Name: &lt;Your Name&gt;</p>
+    <p>Project: Azure Minor Project — Web App hosted on App Service</p>
+  </body>
+</html>
